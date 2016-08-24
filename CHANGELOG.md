@@ -6,6 +6,7 @@
 - Added quote to back
 - Renumber schematic
 - Cleanup schematic
+- Check font size/width to ensure lines are over 5mil
 
 ## 1.0.0
 

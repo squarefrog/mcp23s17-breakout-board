@@ -2,8 +2,8 @@
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-![Board front](https://github.com/squarefrog/mcp23s17-breakout-board/raw/master/img/front.png "Board front")
-![Board back](https://github.com/squarefrog/mcp23s17-breakout-board/raw/master/img/back.png "Board back")
+![Board front](https://github.com/squarefrog/mcp23s17-breakout-board/raw/master/images/top.png "Board top")
+![Board back](https://github.com/squarefrog/mcp23s17-breakout-board/raw/master/images/bottom.png "Board bottom")
 
 A 30x40mm breakout board for the [MCP23S17](http://www.microchip.com/wwwproducts/en/MCP23S17) SOIC package.
 

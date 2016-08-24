@@ -19,7 +19,7 @@ As used in my [MIDI Encoder Box](https://github.com/squarefrog/teensy-midi-encod
 
 4. Now do the same for the 2 1x2 interrupt and power pins.
 
-5. Finally, solder the 2 1x4 SPI header pins in place.
+5. Finally, solder the 2 1x4 SPI header pins in place. Optionally, you may want to use 1x6 headers and get an extra few ground connections.
 
 ## IMPORTANT
 
